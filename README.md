@@ -27,12 +27,12 @@ This helps us better understand your strengths and weaknesses. If you make more 
 ## Submitting your solution
 The process to submit the solution should be from a pull request from a fork.
 
-+ Create a fork on Bitbucket.
++ Create a fork on GitHub.
 + Clone the forked repository your local system.
 + Modify the local repository.
 + Run TsLint on your code using the command `npm run build:solution`
 + Commit your changes.
-+ Push changes back to the remote fork on Bitbucket.
++ Push changes back to the remote fork on GitHub.
 + Create a pull request from the forked repository (source) back to the original (destination).
 
 ## Running the dev environment
